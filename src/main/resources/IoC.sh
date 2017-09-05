@@ -1,7 +1,7 @@
 #!/usr/bin/env scala
 
 println("###############");
-println("Ioc(Inversion of Control");
+println("IoC(Inversion of Control");
 println("제어의 역전");
 println("1. interface");
 println("2. abstract class");
