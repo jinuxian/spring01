@@ -1,0 +1,6 @@
+2017-09-06 12:09:12,083 INFO com.example.Log4JExample - ##############
+2017-09-06 12:09:12,085 INFO com.example.Log4JExample - commons logging..
+2017-09-06 12:09:12,085 INFO com.example.Log4JExample - ##############
+2017-09-06 12:09:12,085 INFO com.example.Log4JExample - ##############
+2017-09-06 12:09:12,085 INFO com.example.Log4JExample - log4j logging..
+2017-09-06 12:09:12,085 INFO com.example.Log4JExample - ##############
